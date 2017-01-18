@@ -1,0 +1,38 @@
+//
+//  PrefixHeader.pch
+//  百思不得姐
+//
+//  Created by Yue on 8/5/16.
+//  Copyright © 2016 fda. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIView+YZExtension.h"
+#import "UIBarButtonItem+YZExtension.h"
+#import "YZConst.h"
+#import "NSDate+YZExtension.h"
+#import "UIImage+YZExtension.h"
+#import "UIImageView+YZExtension.h"
+
+#define YZNoteCenter [NSNotificationCenter defaultCenter] 
+
+//调试阶段就让所有YZLog都能实现NSLog的打印功能。如果发布，则去掉所有YZLog
+#ifdef DEBUG
+#define YZLog(...) NSLog(__VA_ARGS__)
+#else
+#define YZLog(...)
+#endif
+
+#define YZLogFunc YZLog(@"%s", __func__)
+
+#define YZRGBColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0];
+#define YZGlobalBg YZRGBColor(223, 223, 223)
+#define YZTagBg YZRGBColor(74, 139, 209)
+#define YZTagFont [UIFont systemFontOfSize:14]
+
+#define YZScreenW [UIScreen mainScreen].bounds.size.width
+#define YZScreenH [UIScreen mainScreen].bounds.size.height
+
+#endif /* PrefixHeader_pch */
