@@ -29,13 +29,13 @@ A clone of 
 * Login page and animations
 * Displaying and adding comments
 
--
+
 ![](https://github.com/yzhou65/budejie2/blob/master/capture/login.png)
 
 ![](https://github.com/yzhou65/budejie2/tree/master/capture/essence.png)
 ![](https://github.com/yzhou65/budejie2/tree/master/capture/my.png)
 
 ![](https://github.com/yzhou65/budejie2/tree/master/capture/function.png)
-![](https://github.com/yzhou65/budejie2/tree/master/capture/comment.png)
+![](https://github.com/yzhou65/budejie2/blob/master/capture/comment.png)
 
 ![](https://github.com/yzhou65/budejie2/tree/master/capture/cacheClear.png)
