@@ -32,10 +32,10 @@ A clone of 
 
 ![](https://github.com/yzhou65/budejie2/blob/master/capture/login.png)
 
-![](https://github.com/yzhou65/budejie2/tree/master/capture/essence.png)
-![](https://github.com/yzhou65/budejie2/tree/master/capture/my.png)
+![](https://github.com/yzhou65/budejie2/blob/master/capture/essence.png)
+![](https://github.com/yzhou65/budejie2/blob/master/capture/my.png)
 
-![](https://github.com/yzhou65/budejie2/tree/master/capture/function.png)
+![](https://github.com/yzhou65/budejie2/blob/master/capture/function.png)
 ![](https://github.com/yzhou65/budejie2/blob/master/capture/comment.png)
 
-![](https://github.com/yzhou65/budejie2/tree/master/capture/cacheClear.png)
+![](https://github.com/yzhou65/budejie2/blob/master/capture/cacheClear.png)
